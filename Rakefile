@@ -2,7 +2,7 @@ require 'rubygems'
 require 'rake'  
 require 'echoe'  
   
-Echoe.new('sky-debug', '0.1.1') do |p|  
+Echoe.new('sky-debug', '0.1.2') do |p|  
   p.description     = "Sky Trivial Debugger"  
   p.url             = "http://uniqsys.ru/"  
   p.author          = "Uniq Systems"
