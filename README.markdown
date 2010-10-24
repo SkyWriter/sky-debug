@@ -10,12 +10,12 @@ You are required to do just two things:
 
 1. Include 'sky-debug' gem:
 
-	require 'rubygems'
-	require 'sky-debug'
+		require 'rubygems'
+		require 'sky-debug'
 
 2. Call it anywhere you like to get an IRB prompt:
 
-	breakpoint binding
+		breakpoint binding
 
 And you'll get an IRB prompt anywhere in your program with all the environment context.
 
